@@ -27,40 +27,40 @@
 
 ## Küsimused tiimiliikmetele: 
 1. Kas oleksid tahtnud täita mingit muud ülesannet selles meeskonnas?
-_Kristjan_ -
-_Kristiina_ -
-_Liis_ -
-_Toomas_ -
-_Sander_ -
-_Krista_ -
-_Timo_ -
-_Marten_ -
-_Raiko_ -
-_Kaarel_ -
-_Andero_ -
+* _Kristjan_ -
+* _Kristiina_ -
+* _Liis_ -
+* _Toomas_ -
+* _Sander_ -
+* _Krista_ -
+* _Timo_ -
+* _Marten_ -
+* _Raiko_ -
+* _Kaarel_ -
+* _Andero_ -
    
 2. Üks pehme oskus, mida õppisin ja endas arendasin.
-_Kristjan_ -
-_Kristiina_ -
-_Liis_ -
-_Toomas_ -
-_Sander_ -
-_Krista_ -
-_Timo_ -
-_Marten_ -
-_Raiko_ -
-_Kaarel_ -
-_Andero_ -
+* _Kristjan_ -
+* _Kristiina_ -
+* _Liis_ -
+* _Toomas_ -
+* _Sander_ -
+* _Krista_ -
+* _Timo_ -
+* _Marten_ -
+* _Raiko_ -
+* _Kaarel_ -
+* _Andero_ -
 
 3. Üks tehniline oskus, mida õppisin ja endas arendasin.
-_Kristjan_ -
-_Kristiina_ -
-_Liis_ -
-_Toomas_ -
-_Sander_ -
-_Krista_ -
-_Timo_ -
-_Marten_ -
-_Raiko_ -
-_Kaarel_ -
-_Andero_ -
+* _Kristjan_ -
+* _Kristiina_ -
+* _Liis_ -
+* _Toomas_ -
+* _Sander_ -
+* _Krista_ -
+* _Timo_ -
+* _Marten_ -
+* _Raiko_ -
+* _Kaarel_ -
+* _Andero_ -

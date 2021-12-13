@@ -25,6 +25,11 @@
 **3.päev**
 
 
+## Kasutatud tarkvara:
+- Github
+- Visual Studio Code
+- Arduino
+
 ## Küsimused tiimiliikmetele: 
 1. Kas oleksid tahtnud täita mingit muud ülesannet selles meeskonnas?
 * _Kristjan_ -

@@ -13,36 +13,54 @@
 
 **1. päev**
 
-- Analüüs, projekti sisu valimine - kogu tiim
-- FIGMA - Kaur, Mattias, Krista
-- HTML, CSS - Kaur
-- GitHub repo loomine - Arno
-- Slacki kanali loomine - Lelet
-- Internetist materjali otsimine - Olev
+- HTML, CSS - Raiko
+- GitHub repo loomine - Krista
+- Slacki kanali loomine - Timo
+- Server - Timo
+- 
 
 **2.päev**
-- FIGMA - Kaur, Mattias, Krista
-- HTML, CSS - Kaur, Eerik
-- Tiimiliikmete juhendamine - Arno
-- Ubuntu ja VS Code'iga tutvumine - Olev
-- README faili täiendamine - Lelet
+
 
 **3.päev**
--
-- 
--
-- 
-- 
-- 
 
 
 ## Küsimused tiimiliikmetele: 
 1. Kas oleksid tahtnud täita mingit muud ülesannet selles meeskonnas?
-* _Kristjan_ -
+_Kristjan_ -
+_Kristiina_ -
+_Liis_ -
+_Toomas_ -
+_Sander_ -
+_Krista_ -
+_Timo_ -
+_Marten_ -
+_Raiko_ -
+_Kaarel_ -
+_Andero_ -
    
 2. Üks pehme oskus, mida õppisin ja endas arendasin.
-
+_Kristjan_ -
+_Kristiina_ -
+_Liis_ -
+_Toomas_ -
+_Sander_ -
+_Krista_ -
+_Timo_ -
+_Marten_ -
+_Raiko_ -
+_Kaarel_ -
+_Andero_ -
 
 3. Üks tehniline oskus, mida õppisin ja endas arendasin.
-
-
+_Kristjan_ -
+_Kristiina_ -
+_Liis_ -
+_Toomas_ -
+_Sander_ -
+_Krista_ -
+_Timo_ -
+_Marten_ -
+_Raiko_ -
+_Kaarel_ -
+_Andero_ -

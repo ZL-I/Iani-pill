@@ -2,7 +2,7 @@ let online = true;
 
 // define sample files
 const files = [
-  "pack-1/0 - A.wav", "pack-1/1 - D.wav", "pack-1/2 - E.wav", "pack-1/3 - F Sharp.wav", "pack-1/4 - G.wav", "pack-1/5 - A.wav", "pack-1/6 - B.wav", "pack-1/A7.wav", "pack-1/D.wav", "pack-1/E Minor.wav", "pack-1/G.wav"
+  "pack-1/0 - A.wav", "pack-1/1 - D.wav", "pack-1/2 - E.wav", "pack-1/3 - F Sharp.wav", "pack-1/4 - G.wav", "pack-1/5 - A.wav", "pack-1/6 - B.wav", "pack-1/A7.wav", "pack-1/D.wav", "pack-1/E Minor.wav", "pack-1/G.wav", "pack-1/h.mp3"
 ];
 let sounds = Array(files.length);
 
@@ -20,13 +20,13 @@ document.addEventListener('keydown', (event) => {
 
   if(online == true){
     switch (keyName) {
-      case 'a':
+        case 'a':
         socket.emit("send-data", {"sample": 0} );
         break;
-      case 's':
+        case 's':
         socket.emit("send-data", {"sample": 1} );
         break;
-      case 'd':
+        case 'd':
         socket.emit("send-data", {"sample": 2} );
         break;
         case 'f':
@@ -53,43 +53,50 @@ document.addEventListener('keydown', (event) => {
         case 'ä':
         socket.emit("send-data", {"sample": 10} );
         break;
+        case 'õ':
+        socket.emit("send-data", {"sample": 11} );
+        break;
     }
+
   } else {
     // if connection to server is not established, we just play sounds locally
     switch (keyName) {
-      case 'a':
-          playSample(0);
-          break;
-      case 's':
-          playSample(1);
-          break;
-      case 'd':
-          playSample(2);
-          break;
-        case 'f':
-          playSample(3);
-          break;
-        case 'g':
-          playSample(4);
-          break;
+          case 'a':
+            playSample(0);
+            break;
+          case 's':
+            playSample(1);
+            break;
+          case 'd':
+            playSample(2);
+            break;
+          case 'f':
+            playSample(3);
+            break;
+          case 'g':
+            playSample(4);
+            break;
           case 'h':
-          playSample(5);
-          break;
+            playSample(5);
+            break;
           case 'j':
-          playSample(6);
-          break;
+            playSample(6);
+            break;
           case 'k':
-          playSample(7);
-          break;
+            playSample(7);
+            break;
           case 'l':
-          playSample(8);
-          break;
+            playSample(8);
+            break;
           case 'ö':
-          playSample(9);
-          break;
+            playSample(9);
+            break;
           case 'ä':
-          playSample(10);
-          break;
+            playSample(10);
+            break;
+          case 'õ':
+            playSample(11);
+            break;
     }
   }
 });
@@ -105,11 +112,14 @@ keys.forEach((key, idx) => {
 });
 
 
-
 function recieveData(data){
+  console.log(data)
+  if(data.sample === 11) {
+    console.log("drum")
+    setInterval(()=> {playSample(data.sample)}, 500);
+  }
   playSample(data.sample);
 }
-
 
 // play sample file
 function playSample(s){

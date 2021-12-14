@@ -10,15 +10,22 @@
 
 **1. päev**
 
+- Meeskonnaga tutvumine - kõik
+- Lähteülesande selgitamine - kõik
+- Omavahel ülesannete jagamine - kõik
 - HTML, CSS - Raiko
 - GitHub repo - Krista
 - Slacki kanali loomine - Timo
 - Server - Timo
+- Arduino kokku panemine -
 
 **2.päev**
 
+- Töö hetkeseisu ülevaatamine
+- Pooleliolevate tööde jätkamine
 
 **3.päev**
+
 
 
 ## Kasutatud tarkvara:
@@ -43,7 +50,7 @@
 2. Üks pehme oskus, mida õppisin ja endas arendasin.
 * _Kristjan_ -
 * _Kristiina_ -
-* _Ragnar_
+* _Ragnar_ -
 * _Sander_ -
 * _Krista_ -
 * _Timo_ -
@@ -53,7 +60,7 @@
 3. Üks tehniline oskus, mida õppisin ja endas arendasin.
 * _Kristjan_ -
 * _Kristiina_ -
-* _Ragnar_
+* _Ragnar_ -
 * _Sander_ -
 * _Krista_ -
 * _Timo_ -

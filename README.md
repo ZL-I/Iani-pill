@@ -11,10 +11,9 @@
 **1. päev**
 
 - HTML, CSS - Raiko
-- GitHub repo loomine - Krista
+- GitHub repo - Krista
 - Slacki kanali loomine - Timo
 - Server - Timo
-- 
 
 **2.päev**
 

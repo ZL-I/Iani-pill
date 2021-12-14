@@ -17,7 +17,7 @@
 - GitHub repo - Krista
 - Slacki kanali loomine - Timo
 - Server - Timo
-- Arduino kokku panemine -
+- Arduino kokku panemine
 
 **2.päev**
 

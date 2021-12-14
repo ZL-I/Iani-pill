@@ -9,18 +9,17 @@ html, body {
     margin:0; padding:0;
 }
 body {
-    display: grid;
+
     background-color: black;
     height: 100vh;
 }
 .keys{
-
     bottom:5vh;
     left:0;
     width: 100%;
     display: flex;
-    gap: 1vw;
-    padding: 2vw;
+    gap: 0.25vw;
+    padding: 0.25vw;
 }
 
 .string {

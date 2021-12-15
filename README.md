@@ -36,6 +36,7 @@
 - Arduino
 
 [Figma](https://www.figma.com/file/r25yFzw6nkSPADJ9x1y8Oi/Iani-pill?node-id=0%3A1)
+[Arduino projekt server](https://github.com/kuressaareametikool/virtual-instrument-server)
 
 ![IMG_20211214_130345](https://user-images.githubusercontent.com/92778506/145986952-50bd5599-814d-4fe5-9ab2-ff0c6d7bcbeb.jpg)
 ![IMG_20211214_130414](https://user-images.githubusercontent.com/92778506/145987043-03393ee9-c4f5-41e1-a095-03da9443b82f.jpg)
@@ -46,7 +47,7 @@
 * _Kristiina_ - Ei.
 * _Ragnar_ -ei
 * _Sander_ - ei oleks, praegune ülesanne sobib mulle, kuna paraku hetkel veel teisi oskusi pole.
-* _Krista_ -
+* _Krista_ - Minu ülesanne sobis mulle.
 * _Timo_ -
 * _Raiko_ -
 * _Kaarel_ - ei
@@ -56,7 +57,7 @@
 * _Kristiina_ - 
 * _Ragnar_ -loovus
 * _Sander_ - arendasin suhtlust ja tiimi kootööd ning oskan rohkem teiste inimeste arvamustega arvestada.
-* _Krista_ -
+* _Krista_ - Tiimiga suhtlemine.
 * _Timo_ -
 * _Raiko_ -
 * _Kaarel_ - arendasin tiimitööd
@@ -66,7 +67,7 @@
 * _Kristiina_ - 
 * _Ragnar_ -Tean javascriptist ning serveri toimimisest rohkem kui enne seda projekti teadsin. Lisaks Figma.
 * _Sander_ - sain uut teada javascriptist ning õppisin kuidas serverit tööle saada, samuti oskan ühendada Arduinot serveriga.
-* _Krista_ -
+* _Krista_ - Õppisin natuke servereid ja Arduinot ja harjutasin veel Figmat.
 * _Timo_ -
 * _Raiko_ -
 * _Kaarel_ - sain natuke teada javascriptist ja serveri tööle panemisest

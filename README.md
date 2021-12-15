@@ -61,7 +61,7 @@
 
 3. Üks tehniline oskus, mida õppisin ja endas arendasin.
 * _Kristjan_ -
-* _Kristiina_ - HTML, CSS, JS.
+* _Kristiina_ - 
 * _Ragnar_ -
 * _Sander_ - sain uut teada javascriptist ning õppisin kuidas serverit tööle saada, samuti oskan ühendada Arduinot serveriga.
 * _Krista_ -

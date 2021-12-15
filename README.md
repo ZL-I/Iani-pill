@@ -36,7 +36,7 @@
 - Visual Studio Code
 - Arduino
 
-[Figma](https://www.figma.com/file/r25yFzw6nkSPADJ9x1y8Oi/Iani-pill?node-id=0%3A1)
+[Figma](https://www.figma.com/file/r25yFzw6nkSPADJ9x1y8Oi/Iani-pill)
 [Arduino projekt server](https://github.com/kuressaareametikool/virtual-instrument-server)
 
 ![IMG_20211214_130345](https://user-images.githubusercontent.com/92778506/145986952-50bd5599-814d-4fe5-9ab2-ff0c6d7bcbeb.jpg)

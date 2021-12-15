@@ -2,7 +2,7 @@ let online = true;
 
 // define sample files
 const files = [
-  "pack-1/0 - A.wav", "pack-1/1 - D.wav", "pack-1/2 - E.wav", "pack-1/3 - F Sharp.wav", "pack-1/4 - G.wav", "pack-1/5 - A.wav", "pack-1/6 - B.wav", "pack-1/A7.wav", "pack-1/D.wav", "pack-1/E Minor.wav", "pack-1/G.wav"
+  "pack-1/0 - A.wav", "pack-1/1 - D.wav", "pack-1/2 - E.wav", "pack-1/3 - F Sharp.wav", "pack-1/4 - G.wav", "pack-1/5 - A.wav", "pack-1/6 - B.wav", "pack-1/A7.wav", "pack-1/D.wav", "pack-1/E Minor.wav", "pack-1/G.wav", "pack-1/h.mp3"
 ];
 let sounds = Array(files.length);
 
@@ -53,6 +53,7 @@ document.addEventListener('keydown', (event) => {
         case 'ä':
         socket.emit("send-data", {"sample": 10} );
         break;
+
     }
   } else {
     // if connection to server is not established, we just play sounds locally
@@ -90,6 +91,7 @@ document.addEventListener('keydown', (event) => {
           case 'ä':
           playSample(10);
           break;
+
     }
   }
 });
@@ -107,8 +109,13 @@ keys.forEach((key, idx) => {
 
 
 function recieveData(data){
-  playSample(data.sample);
-}
+    console.log(data)
+    if(data.sample === 11) {
+      console.log("drum")
+      setInterval(()=> {playSample(data.sample)}, 500);
+    }
+    playSample(data.sample);
+  }
 
 
 // play sample file

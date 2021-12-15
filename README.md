@@ -47,7 +47,7 @@
 * _Krista_ -
 * _Timo_ -
 * _Raiko_ -
-* _Kaarel_ -
+* _Kaarel_ - ei
    
 2. Üks pehme oskus, mida õppisin ja endas arendasin.
 * _Kristjan_ -
@@ -57,7 +57,7 @@
 * _Krista_ -
 * _Timo_ -
 * _Raiko_ -
-* _Kaarel_ -
+* _Kaarel_ - arendasin tiimitööd
 
 3. Üks tehniline oskus, mida õppisin ja endas arendasin.
 * _Kristjan_ -
@@ -67,4 +67,4 @@
 * _Krista_ -
 * _Timo_ -
 * _Raiko_ -
-* _Kaarel_ -
+* _Kaarel_ - sain natuke teada javascriptist ja serveri tööle panemisest

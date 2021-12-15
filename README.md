@@ -49,7 +49,7 @@
 * _Sander_ - ei oleks, praegune ülesanne sobib mulle, kuna paraku hetkel veel teisi oskusi pole.
 * _Krista_ - Minu ülesanne sobis mulle.
 * _Timo_ -
-* _Raiko_ -
+* _Raiko_ - Ei
 * _Kaarel_ - ei
    
 2. Üks pehme oskus, mida õppisin ja endas arendasin.
@@ -59,7 +59,7 @@
 * _Sander_ - arendasin suhtlust ja tiimi kootööd ning oskan rohkem teiste inimeste arvamustega arvestada.
 * _Krista_ - Tiimiga suhtlemine.
 * _Timo_ -
-* _Raiko_ -
+* _Raiko_ - arendasin tiimitööd ja loovust.
 * _Kaarel_ - arendasin tiimitööd
 
 3. Üks tehniline oskus, mida õppisin ja endas arendasin.
@@ -69,5 +69,5 @@
 * _Sander_ - sain uut teada javascriptist ning õppisin kuidas serverit tööle saada, samuti oskan ühendada Arduinot serveriga.
 * _Krista_ - Õppisin natuke servereid ja Arduinot ja harjutasin veel Figmat.
 * _Timo_ -
-* _Raiko_ -
+* _Raiko_ - õppisin natukene tailwindi, gridi, githubi pushimist ja pullimist, serveri loomist. Õppisin ka htmli ja cssi rohkem tundma.
 * _Kaarel_ - sain natuke teada javascriptist ja serveri tööle panemisest

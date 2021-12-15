@@ -44,7 +44,7 @@
 
 ## Küsimused tiimiliikmetele: 
 1. Kas oleksid tahtnud täita mingit muud ülesannet selles meeskonnas?
-* _Kristjan_ -
+* _Kristjan_ - Olin oma ülesannetega rahul.
 * _Kristiina_ - Ei.
 * _Ragnar_ -ei
 * _Sander_ - ei oleks, praegune ülesanne sobib mulle, kuna paraku hetkel veel teisi oskusi pole.
@@ -54,7 +54,7 @@
 * _Kaarel_ - ei
    
 2. Üks pehme oskus, mida õppisin ja endas arendasin.
-* _Kristjan_ -
+* _Kristjan_ - Tiimikaaslaste juhendamine ja abistamine.
 * _Kristiina_ - Projektipäevade ülesehitus hakkab juba päris selgeks saama.
 * _Ragnar_ -loovus
 * _Sander_ - arendasin suhtlust ja tiimi kootööd ning oskan rohkem teiste inimeste arvamustega arvestada.
@@ -64,7 +64,7 @@
 * _Kaarel_ - arendasin tiimitööd
 
 3. Üks tehniline oskus, mida õppisin ja endas arendasin.
-* _Kristjan_ -
+* _Kristjan_ - Arduino -> python -> server. Nodejs
 * _Kristiina_ - html, css, js, server
 * _Ragnar_ -Tean javascriptist ning serveri toimimisest rohkem kui enne seda projekti teadsin. Lisaks Figma.
 * _Sander_ - sain uut teada javascriptist ning õppisin kuidas serverit tööle saada, samuti oskan ühendada Arduinot serveriga.

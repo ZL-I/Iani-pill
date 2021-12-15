@@ -35,6 +35,8 @@
 - Visual Studio Code
 - Arduino
 
+[Figma](https://www.figma.com/file/r25yFzw6nkSPADJ9x1y8Oi/Iani-pill?node-id=0%3A1)
+
 ![IMG_20211214_130345](https://user-images.githubusercontent.com/92778506/145986952-50bd5599-814d-4fe5-9ab2-ff0c6d7bcbeb.jpg)
 ![IMG_20211214_130414](https://user-images.githubusercontent.com/92778506/145987043-03393ee9-c4f5-41e1-a095-03da9443b82f.jpg)
 
@@ -42,7 +44,7 @@
 1. Kas oleksid tahtnud täita mingit muud ülesannet selles meeskonnas?
 * _Kristjan_ -
 * _Kristiina_ - Ei.
-* _Ragnar_ -
+* _Ragnar_ -ei
 * _Sander_ - ei oleks, praegune ülesanne sobib mulle, kuna paraku hetkel veel teisi oskusi pole.
 * _Krista_ -
 * _Timo_ -
@@ -52,7 +54,7 @@
 2. Üks pehme oskus, mida õppisin ja endas arendasin.
 * _Kristjan_ -
 * _Kristiina_ - 
-* _Ragnar_ -
+* _Ragnar_ -loovus
 * _Sander_ - arendasin suhtlust ja tiimi kootööd ning oskan rohkem teiste inimeste arvamustega arvestada.
 * _Krista_ -
 * _Timo_ -
@@ -62,7 +64,7 @@
 3. Üks tehniline oskus, mida õppisin ja endas arendasin.
 * _Kristjan_ -
 * _Kristiina_ - 
-* _Ragnar_ -
+* _Ragnar_ -Tean javascriptist ning serveri toimimisest rohkem kui enne seda projekti teadsin. Lisaks Figma.
 * _Sander_ - sain uut teada javascriptist ning õppisin kuidas serverit tööle saada, samuti oskan ühendada Arduinot serveriga.
 * _Krista_ -
 * _Timo_ -

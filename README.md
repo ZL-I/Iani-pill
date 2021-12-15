@@ -41,7 +41,7 @@
 * _Kristjan_ -
 * _Kristiina_ -
 * _Ragnar_ -
-* _Sander_ -
+* _Sander_ - ei oleks, praegune ülesanne sobib mulle, kuna paraku hetkel veel teisi oskusi pole.
 * _Krista_ -
 * _Timo_ -
 * _Raiko_ -
@@ -51,7 +51,7 @@
 * _Kristjan_ -
 * _Kristiina_ -
 * _Ragnar_ -
-* _Sander_ -
+* _Sander_ - arendasin suhtlust ja tiimi kootööd ning oskan rohkem teiste inimeste arvamustega arvestada.
 * _Krista_ -
 * _Timo_ -
 * _Raiko_ -
@@ -61,7 +61,7 @@
 * _Kristjan_ -
 * _Kristiina_ -
 * _Ragnar_ -
-* _Sander_ -
+* _Sander_ - sain uut teada javascriptist ning õppisin kuidas serverit tööle saada, samuti oskan ühendada Arduinot serveriga.
 * _Krista_ -
 * _Timo_ -
 * _Raiko_ -

@@ -28,6 +28,7 @@
 
 - Pooleliolevate tööde jätkamine
 - Figma - Krista
+- Esitluseks valmistumine
 
 
 ## Kasutatud tarkvara:
@@ -54,7 +55,7 @@
    
 2. Üks pehme oskus, mida õppisin ja endas arendasin.
 * _Kristjan_ -
-* _Kristiina_ - 
+* _Kristiina_ - Projektipäevade ülesehitus hakkab juba päris selgeks saama.
 * _Ragnar_ -loovus
 * _Sander_ - arendasin suhtlust ja tiimi kootööd ning oskan rohkem teiste inimeste arvamustega arvestada.
 * _Krista_ - Tiimiga suhtlemine.
@@ -64,7 +65,7 @@
 
 3. Üks tehniline oskus, mida õppisin ja endas arendasin.
 * _Kristjan_ -
-* _Kristiina_ - 
+* _Kristiina_ - html, css, js, server
 * _Ragnar_ -Tean javascriptist ning serveri toimimisest rohkem kui enne seda projekti teadsin. Lisaks Figma.
 * _Sander_ - sain uut teada javascriptist ning õppisin kuidas serverit tööle saada, samuti oskan ühendada Arduinot serveriga.
 * _Krista_ - Õppisin natuke servereid ja Arduinot ja harjutasin veel Figmat.

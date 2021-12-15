@@ -26,6 +26,8 @@
 
 **3.päev**
 
+- Pooleliolevate tööde jätkamine
+- Figma - Krista
 
 
 ## Kasutatud tarkvara:
@@ -39,7 +41,7 @@
 ## Küsimused tiimiliikmetele: 
 1. Kas oleksid tahtnud täita mingit muud ülesannet selles meeskonnas?
 * _Kristjan_ -
-* _Kristiina_ -
+* _Kristiina_ - Ei.
 * _Ragnar_ -
 * _Sander_ - ei oleks, praegune ülesanne sobib mulle, kuna paraku hetkel veel teisi oskusi pole.
 * _Krista_ -
@@ -49,7 +51,7 @@
    
 2. Üks pehme oskus, mida õppisin ja endas arendasin.
 * _Kristjan_ -
-* _Kristiina_ -
+* _Kristiina_ - 
 * _Ragnar_ -
 * _Sander_ - arendasin suhtlust ja tiimi kootööd ning oskan rohkem teiste inimeste arvamustega arvestada.
 * _Krista_ -
@@ -59,7 +61,7 @@
 
 3. Üks tehniline oskus, mida õppisin ja endas arendasin.
 * _Kristjan_ -
-* _Kristiina_ -
+* _Kristiina_ - HTML, CSS, JS.
 * _Ragnar_ -
 * _Sander_ - sain uut teada javascriptist ning õppisin kuidas serverit tööle saada, samuti oskan ühendada Arduinot serveriga.
 * _Krista_ -

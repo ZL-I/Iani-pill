@@ -9,10 +9,147 @@ html, body {
     margin:0; padding:0;
 }
 body {
-
-    background-color: black;
-    height: 100vh;
+    max-height: 100vh;
+    max-width: 100vw;
+    height: 100%;
+    width: 100%;
+    background-color: rgb(10, 5, 20);
 }
+.kannel {
+    width: 100%;
+    height: 50px;
+    background-color: beige;
+    font-size: 50px;
+    display: flex;
+    justify-content: center;
+   
+}
+
+.grid {
+    display: grid;
+    height: calc(60vh - 50px);
+    grid-template-areas: 
+    "a . . h . . ."
+    ". b . . i . ."
+    ". . c . . j ."
+    ". . . d . . k"
+    ". . . . e . ."
+    ". . . . . f ."
+    ". . . . . . g"
+    ;
+}
+
+.klahv {
+    font-size: 30px;
+    display: flex;
+    justify-content: center;
+    padding-top: 13px;
+}
+
+.noot {
+    font-size: large;
+    display: flex;
+    justify-content: center;
+}
+
+.a {
+    grid-area: a;
+}
+
+.a-kast {
+    height: 100%;
+}
+
+.s {
+    grid-area: b;
+}
+
+.s-kast {
+    height: 100%;
+    border: 3px solid white;
+}
+
+.d {
+    grid-area: c;
+}
+
+.d-kast {
+    height: 100%;
+    border: 3px solid white;    
+}
+
+.f {
+    grid-area: d;
+}
+
+.f-kast {
+    height: 100%;
+    border: 3px solid white;    
+}
+
+.g {
+    grid-area: h;
+}
+
+.g-kast {
+    height: 100%;
+    border: 3px solid white;
+}
+
+.h {
+    grid-area: i;
+}
+
+.h-kast {
+    height: 100%;
+    border: 3px solid white;
+}
+
+.j {
+    grid-area: e;
+}
+
+.j-kast {
+    height: 100%;
+    border: 3px solid white;
+}
+
+.k {
+    grid-area: f;
+}
+
+.k-kast {
+    height: 100%;
+    border: 3px solid white;
+}
+
+.l {
+    grid-area: g;
+}
+
+.l-kast {
+    height: 100%;
+    border: 3px solid white;
+}
+
+.ö {
+    grid-area: j;
+}
+
+.ö-kast {
+    height: 100%;
+    border: 3px solid white;
+}
+
+.ä {
+    grid-area: k;
+}
+
+.ä-kast {
+    height: 100%;
+    border: 3px solid white;
+}
+
 .keys{
     bottom:5vh;
     left:0;

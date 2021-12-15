@@ -135,7 +135,7 @@ function preloadSampleFiles() {
 
 
 function setup() {
-  createCanvas(windowWidth, windowHeight*0.8)
+  createCanvas(windowWidth*0.2, windowHeight*0.2, )
 
   // https://p5js.org/reference/#/p5.FFT
   fft = new p5.FFT();
@@ -155,11 +155,11 @@ function draw() {
 
   spectrum = fft.analyze();
   energy = fft.getEnergy(100, 255);
-  size = map(energy, 0, 255, energy*0.2, windowHeight*0.8);
+  size = map(energy, 0, 255, energy*0.2, windowHeight*0.2);
 
   stroke('hsla(0, 80%, 100%, 0.5)');
   strokeWeight(size*0.05);
-  circle(windowWidth*0.5, windowHeight*0.4, size);
+  circle(windowWidth*0.1, windowHeight*0.1, size);
 }
 
 
@@ -172,5 +172,5 @@ function touchStarted() {
 }
 // handles browser resize
 function windowResized() {
-  resizeCanvas(windowWidth, windowHeight*0.8, false);
+  resizeCanvas(windowWidth, windowHeight*0.4, false);
 }

@@ -5,22 +5,85 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="./css/style.css">
+
+    <script src="https://cdn.tailwindcss.com"></script>
+
+    <title>Virtual instrument</title>
+
     <title>Virtuaal instrument</title>
+
 </head>
 
 <body>
-    <div class="keys">
-        <div class="key">A<div class="string">A</div></div>
-        <div class="key">S<div class="string">D</div></div>
-        <div class="key">D<div class="string">E</div></div>
-        <div class="key">F<div class="string">F#</div></div>
-        <div class="key">G<div class="string">G</div></div>
-        <div class="key">H<div class="string">A</div></div>
-        <div class="key">J<div class="string">B</div></div>
-        <div class="key">K<div class="string">A7</div></div>
-        <div class="key">L<div class="string">D</div></div>
-        <div class="key">Ö<div class="string">Em</div></div>
-        <div class="key">Ä<div class="string">G</div></div>
+    <header class="flex justify-center bg-purple-300 mb-4 text-[50px]"> VÄIKEKANNEL </header>
+   
+    <div class="grid mx-10">
+        <div class="a ">
+            <div class="a-kast bg-blue-100 text-red-900 rounded-lg ">
+                <p class="klahv">A</p>
+                <p class="noot">a</p>
+            </div>
+        </div>
+        <div class="s">
+            <div class="s-kast bg-blue-200 text-red-900 rounded-lg">
+                <p class="klahv">D</p>
+                <p class="noot">s</p> 
+            </div>
+        </div>
+        <div class="d">
+            <div class="d-kast bg-blue-300 text-red-900 rounded-lg">
+                <p class="klahv">E</p>
+                <p class="noot">d</p> 
+            </div>
+        </div>
+        <div class="f">
+            <div class="f-kast bg-blue-400 text-red-900 rounded-lg">
+                <p class="klahv">F#</p>
+                <p class="noot">f</p> 
+            </div>
+        </div>
+        <div class="g">
+            <div class="g-kast bg-red-100 text-blue-900 rounded-lg">
+                <p class="klahv">G</p>
+                <p class="noot">g</p> 
+            </div>
+        </div>    
+        <div class="h">
+            <div class="h-kast bg-red-200 text-blue-900 rounded-lg">
+                <p class="klahv">A</p>
+                <p class="noot">h</p> 
+            </div>
+        </div>    
+        <div class="j">
+            <div class="j-kast bg-blue-500 text-red-900 rounded-lg">
+                <p class="klahv">B</p>
+                <p class="noot">j</p> 
+            </div>
+        </div>
+        <div class="k">
+            <div class="k-kast bg-blue-600 text-red-900 rounded-lg">
+                <p class="klahv">A7</p>
+                <p class="noot">k</p> 
+            </div>
+        </div>
+        <div class="l">
+            <div class="l-kast bg-blue-700 text-red-900 rounded-lg">
+                <p class="klahv">D</p>
+                <p class="noot">l</p> 
+            </div>
+        </div>
+        <div class="ö">
+            <div class="l-kast bg-red-300 text-blue-900 rounded-lg">
+                <p class="klahv">Em</p>
+                <p class="noot">ö</p> 
+            </div>
+        </div>
+        <div class="ä">
+            <div class="l-kast bg-red-400 text-blue-900 rounded-lg">
+                <p class="klahv">G</p>
+                <p class="noot">ä</p> 
+            </div>
+        </div>
     </div>
 
     <script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/1.4.0/p5.js"></script>
